@@ -1,0 +1,103 @@
+#calcBorder {
+    border: 3px solid blue;
+    border-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 290px;
+    background-color:dodgerblue;
+}
+
+#calcScreen {
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 240px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    text-align: right;
+}
+
+#divideSymbol {
+    width: 50px;
+    height: 50px;
+    margin-inline: 5px;
+    display: inline-flex;
+    border: 3px solid rgb(255, 97, 24);
+    border-radius: 3px;
+    background-color: rgb(255, 140, 24);
+    color: white;
+    font-size: larger;
+}
+
+#multSymbol {
+    width: 50px;
+    height: 50px;
+    margin-inline: 5px;
+    display: inline-flex;
+    border: 3px solid rgb(255, 97, 24);
+    border-radius: 3px;
+    background-color: rgb(255, 140, 24);
+    color: white;
+    font-size: larger;
+}
+
+#minusSymbol {
+    width: 50px;
+    height: 50px;
+    margin-inline: 5px;
+    display: inline-flex;
+    border: 3px solid rgb(255, 97, 24);
+    border-radius: 3px;
+    background-color: rgb(255, 140, 24);
+    color: white;
+    font-size: larger;
+}
+
+#plusSymbol {
+    width: 50px;
+    height: 50px;
+    margin-inline: 5px;
+    display: inline-flex;
+    border: 3px solid rgb(255, 97, 24);
+    border-radius: 3px;
+    background-color: rgb(255, 140, 24);
+    color: white;
+    font-size: larger;
+}
+
+#equalSymbol {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-inline: 5px;
+    display: inline-flex;
+    border: 3px solid silver;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    font-size: larger;
+}
+
+#clearBtn {
+    width: 244px;
+    height: 50px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(255, 97, 24);
+    border-radius: 3px;
+    background-color: rgb(255, 140, 24);
+    color: white;
+    font-size: larger;
+}
+
+.numsAndSymbols {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-inline: 5px;
+    display: inline-flex;
+    border: 3px solid silver;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    font-size: larger;
+}
